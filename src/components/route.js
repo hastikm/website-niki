@@ -1,6 +1,6 @@
 import CustomRew from "./customRew/CustomRew";
 import Footer from "./footer/Footer";
-import Hero from "./hero/hero";
+import Hero from "./hero/Hero";
 import Offer from "./offer/Offer";
 import PopulerProd from "./populerProd/Populerprod";
 import Services from "./services/Services";
