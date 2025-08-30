@@ -1,11 +1,15 @@
 import React from 'react'
+import { services } from '../../constans'   // فرض کردم services اینجا export شده
+import ServiceCard from '../../section/serviceCard/ServiceCard'
 
-const services = () => {
+const Services = () => {
   return (
-    <div>
-      services
+    <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+      {services.map((servi, index) => (
+        <ServiceCard key={index} {...servi} />
+      ))}
     </div>
   )
 }
 
-export default services
+export default Services
