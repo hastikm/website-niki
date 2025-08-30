@@ -22,9 +22,14 @@ const offer = () => {
           Don’t miss out! Grab your favorite shoes now with our special limited-time discount.
           Step out in style and comfort while saving big only for a short time! Discover a curated collection of the most stylish and comfortable shoes, now available at special discounted</p>
 
-           <div className='pt-20 '>
-          <Button1 lable={'View details'}   />
-          </div>
+       <div className='pt-20 flex gap-6'>
+          <Button1 lable={'View details'} />
+          <Button1 lable={'Learn more'} 
+          backgroundColor='bg-white' 
+          className='hidden sm:block'/>
+        </div>
+
+
           </div>
     </section>
   )
