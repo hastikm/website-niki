@@ -1,7 +1,8 @@
 # 
-# 🌐 Website Niki — Web Utility Tools with React + Vite
+# 🌐 Website Niki — Web  with React + Vite
 
-This project is a simple and useful website built with **React** and **Vite**, containing a collection of small online tools.  
+This project is a simple and useful website built with **React** and **Vite**.  
+
 The main goal is to practice React and create a showcase project for GitHub.
 
 ---
