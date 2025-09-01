@@ -7,7 +7,9 @@ The main goal is to practice React and create a showcase project for GitHub.
 ---
 ## 🌐 Live Demo
 **Live Site:** [https://hastikm.github.io/website-niki/](https://hastikm.github.io/website-niki/)
-![website pic](./src/assets/images/collection-background.svg)
+
+
+![website pic](./src/assets/images/Screenshot%202025-09-01%20231949.png)
 
 
 ## ✨ Features (Current & Planned)
