@@ -1,12 +1,34 @@
-# React + Vite
+# 
+# 🌐 Website Niki — Web Utility Tools with React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a simple and useful website built with **React** and **Vite**, containing a collection of small online tools.  
+The main goal is to practice React and create a showcase project for GitHub.
 
-Currently, two official plugins are available:
+---
+## 🌐 Live Demo
+**Live Site:** [https://hastikm.github.io/website-niki/](https://hastikm.github.io/website-niki/)
+![website pic](./src/assets/images/collection-background.svg)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+## ✨ Features (Current & Planned)
+- 🎂 Age Calculator (based on date of birth)  
+- 🗓️ Date Converter (Gregorian ↔ Jalali)  
+- ⏱️ Timer / Stopwatch  
+- 📝 Text Counter (characters & words)  
+- ➗ Simple Calculator  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+*(More tools will be added in the future!)*
+
+---
+
+## 🛠️ Tech Stack
+- [React](https://react.dev/) + [Vite](https://vitejs.dev/)  
+- [Tailwind CSS](https://tailwindcss.com/) for styling  
+
+---
+
+```bash
+git clone https://github.com/hastikm/website-niki.git
+cd website-niki
+npm install
+npm run dev
