@@ -11,15 +11,12 @@ The main goal is to practice React and create a showcase project for GitHub.
 
 ![website pic](./src/assets/images/Screenshot%202025-09-01%20231949.png)
 
-
-## ✨ Features (Current & Planned)
-- 🎂 Age Calculator (based on date of birth)  
-- 🗓️ Date Converter (Gregorian ↔ Jalali)  
-- ⏱️ Timer / Stopwatch  
-- 📝 Text Counter (characters & words)  
-- ➗ Simple Calculator  
-
-*(More tools will be added in the future!)*
+## ✨ Features
+This is a simple React website showcasing a clean and responsive design.  
+- Modern and responsive layout  
+- Built with React and Vite  
+- Easy to navigate  
+- Ready for future enhancements
 
 ---
 
